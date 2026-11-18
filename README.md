@@ -10,13 +10,6 @@ Jamie D. McNicol, Multiplex Imaging Laboratory · SCSP Core
 | `index.html` | Start page for the talk: links to the slides and the live pipeline map |
 | `slides.pdf` | The slide deck (exported from the presentation) |
 
-## Links
-
-- **Slides (live):** https://claude.ai/artifact/4MVrGrjkL5ZNR2msYUs5ud
-- **Live pipeline map:** https://claude.ai/artifact/YHhYHNJUmBErEDwnHCtMrn
-
-Both links open in a signed-in browser.
-
 ## How we keep the work transparent
 
 - Open-source tools at every step, so a new method can be tested on our data the week it is published.
